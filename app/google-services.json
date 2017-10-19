@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "981363815401",
+    "firebase_url": "https://face-recognition-test-6f150.firebaseio.com",
+    "project_id": "face-recognition-test-6f150",
+    "storage_bucket": "face-recognition-test-6f150.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981363815401:android:278c7c5684745c4e",
+        "android_client_info": {
+          "package_name": "com.example.monster.facerecognitiontest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981363815401-l9m5ll6tvf7sopeasu4jrqlu56ci6jq4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.monster.facerecognitiontest",
+            "certificate_hash": "66ace1a9d5ea00163c5e4d1dd4fe461c4da12164"
+          }
+        },
+        {
+          "client_id": "981363815401-8k1k41o9k6rdv660hm91g0noevolpere.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlrp7dJb7rN3wjNRvsrfeyl2C0BLCb4N0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981363815401-8k1k41o9k6rdv660hm91g0noevolpere.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
